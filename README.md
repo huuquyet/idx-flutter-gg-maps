@@ -1,6 +1,8 @@
-# myapp
+# Add Google Maps to Flutter app
 
 A new Flutter project.
+
+[Adding Google Maps to a Flutter app](https://codelabs.developers.google.com/codelabs/google-maps-in-flutter)
 
 ## Getting Started
 
